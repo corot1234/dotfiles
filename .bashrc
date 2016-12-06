@@ -123,4 +123,3 @@ export EDITOR=vim
 alias v='vim'
 alias xm='setxkbmap && xmodmap ~/.Xmodmap'
 alias rm='rm -i'
-
