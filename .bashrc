@@ -123,3 +123,7 @@ export EDITOR=vim
 alias v='vim'
 alias xm='setxkbmap && xmodmap ~/.Xmodmap'
 alias rm='rm -i'
+alias aptup='apt update'
+alias aptfu='apt full-upgrade'
+alias aptinst='apt install'
+
